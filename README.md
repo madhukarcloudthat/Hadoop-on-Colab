@@ -1,4 +1,3 @@
-# Hadoop-on-Colab
 # Hadoop
 ### This contain how to install hadoop on google colab and how to run mapreduce in hadoop.
 
